@@ -52,13 +52,6 @@ This regenerates both figures and `phase_transition_results.csv`.
   attraction/repulsion, no predators. It has not been compared against
   empirical schooling data.
 
-## What I'd do next
-- Study how the transition changes with N
-- Add attraction and repulsion rules (Couzin-style zones)
-- Compare simulated order curves with published data on real schooling
-  species
-- Extend to 3D
-
 ## Reference
 Vicsek, T., Czirok, A., Ben-Jacob, E., Cohen, I., & Shochet, O. (1995).
 Novel type of phase transition in a system of self-driven particles.
