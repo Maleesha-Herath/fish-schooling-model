@@ -39,7 +39,7 @@ configuration.
 ## How to run
 ```
 pip install -r requirements.txt
-python run_experiment.py
+python analysis.ipynb
 ```
 This regenerates both figures and `phase_transition_results.csv`.
 
